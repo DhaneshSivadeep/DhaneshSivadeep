@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhanesh Sivadeep
 
-<!--
-**DhaneshSivadeep/DhaneshSivadeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year IT Student  
+🛡️ Cyber Security Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+- Passionate about cyber security & ethical hacking  
+- Learning threat analysis, system security & forensics  
+- Exploring Linux, CTFs & open-source tools  
+
+---
+
+### 🛠️ Skills & Interests
+- **Languages:** Python, C  
+- **Focus Areas:** Network Security, Cryptography, Pen Testing  
+
+---
+
+### 📫 Connect
+- 📧 pvdswin@gmail.com
+- 💼 www.linkedin.com/in/dhanesh-sivadeep-5b23b4298
