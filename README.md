@@ -1,23 +1,33 @@
-# 👋 Hi, I'm Dhanesh Sivadeep
+# 👋 Hi, I'm Dhanesh Sivadeep  
 
-🎓 3rd Year IT Student  
-🛡️ Cyber Security Enthusiast  
-
----
-
-### 🔍 About Me
-- Passionate about cyber security & ethical hacking  
-- Learning threat analysis, system security & forensics  
-- Exploring Linux, CTFs & open-source tools  
+🎓 Information Technology Undergrad  
+💻 Passionate about technology, problem-solving & innovation  
+🚀 Exploring software development, research & emerging tech  
+🌱 Always learning, collaborating & building impactful solutions  
 
 ---
 
-### 🛠️ Skills & Interests
-- **Languages:** Python, C  
-- **Focus Areas:** Network Security, Cryptography, Pen Testing  
+## 🔧 Skills  
+- **Languages:** Python, C++, JavaScript, HTML/CSS  
+- **Core Strengths:** Problem Solving, Teamwork, Communication, Leadership  
 
 ---
 
-### 📫 Connect
-- 📧 pvdswin@gmail.com
-- 💼 www.linkedin.com/in/dhanesh-sivadeep-5b23b4298
+## 📌 Highlights  
+- 💼 Web Development Intern @ CoderOne  
+- 🔬 R&D Intern (Digital Twins) @ Ebramha  
+- 🎶 Executive Member @ Music Club SVCE  
+- 🌍 Member @ CARE Club (Ecosystem & Awareness Team)  
+- 📊 Student Coordinator @ IQAC  
+
+---
+
+## 🌱 Currently  
+- Learning new technologies and applying them through projects  
+- Exploring opportunities to grow as a developer & innovator  
+
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/dhanesh-sivadeep-5b23b4298/)  
+- 📧 pvdswin@gmail.com  
